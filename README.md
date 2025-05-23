@@ -1,5 +1,6 @@
 ![Dashboard Screenshot](Home Page.png)
 
+
 **# 💼 IBM HR Analytics Power BI Dashboard**
 
 This project analyzes IBM HR data using Power BI to uncover insights on employee attrition, satisfaction, performance, salary trends, and career progression. The goal is to help HR teams make informed, data-driven decisions.
