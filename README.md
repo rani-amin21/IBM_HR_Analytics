@@ -1,3 +1,4 @@
+<img width="1272" height="712" alt="Home Page" src="https://github.com/user-attachments/assets/07bf2876-939d-4aa5-a582-9a5eee7e14ea" />
 
 **## 💼 IBM HR Analytics Power BI Dashboard**
 
